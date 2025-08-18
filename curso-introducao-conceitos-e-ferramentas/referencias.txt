@@ -1,0 +1,16 @@
+** Livro:
+https://dataminingbook.info/book_html/
+------------------------------------------
+** R
+https://www.r-project.org/
+------------------------------------------
+** The internet in real time
+https://www.webfx.com/internet-real-time/
+------------------------------------------
+** The fourth paradigm: data-intensive scientific discovery
+https://www.microsoft.com/en-us/research/publication/fourth-paradigm-data-intensive-scientific-discovery/
+------------------------------------------
+** The data deluge
+https://www.economist.com/leaders/2010/02/25/the-data-deluge
+------------------------------------------
+** 
